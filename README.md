@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Data Science Projects (Machine Learning):</h2>
 
-- <b>Project 1: Spain Electricity Shortfall Challenge (Regression)</b>
+- <b>Project 1: Spain Electricity Shortfall Challenge </b>
   - [Regression_Predict](https://github.com/Team-team19/Regression_Predict.git)
-- <b>Project 2: Twitter-Sentiment-Analysis (Classification)</b>
-  - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b>
+- <b>Project 2: Twitter-Sentiment-Analysis </b>
+  - [Classification_Predict](https://github.com/Classification-Team-CW5/Team-CW5-Notebook.git) </b>
 - <b>Project 3: Movie Recommendation System (unsupervised ML)</b>
   - [](https://github.com/joshmadakor1/Sentinel-Lab)
 
