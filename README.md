@@ -5,9 +5,9 @@
 - <b>Project 1: Spain Electricity Shortfall Challenge (Supervised ML)</b>
   - [Regression_Predict](https://github.com/Team-team19/Regression_Predict.git)
 - <b>Project 2:Climate Change Belief Analysis (Supervised ML)</b>
-  - [Classification_Predict](https://github.com/Classification-Team-CW5/Team-CW5-Notebook.git) </b>
+  - [Classification_Predict](https://github.com/Classification-Team-CW5/Team-CW5-Notebook.git)</b>
 - <b>Project 3: Movie Recommendation System (unsupervised ML)</b>
-  - [Movie Recommendation Predict](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Movie Recommendation Predict](https://github.com/Team-JS4/Team-JS4-Notebook.git)
 
 <h2>Tools:</h2>
 
